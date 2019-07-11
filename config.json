@@ -1,0 +1,8 @@
+{
+    "audioRecordConfig": {
+        "encoding": "LINEAR16",
+        "sampleRateHertz": 16000,
+        "languageCode": "tr-TR"
+    }
+
+}
